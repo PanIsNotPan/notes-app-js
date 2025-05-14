@@ -1,4 +1,4 @@
-# Basic Calculator App
+# Basic Notes App
 
 ---
 
