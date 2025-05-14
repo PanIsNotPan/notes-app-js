@@ -1,4 +1,4 @@
-# Basic Notes App
+# Basic Note-taking App
 
 ---
 
